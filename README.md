@@ -11,6 +11,7 @@ I use eclipse luna 4.4
 #dom4j.jar
 #log4j-1.2.16.jar
 #xmlbeans-2.3.0.jar
+#rs2xml.jar
 
 2. Configure these jars to your project's build path
 3. Test with the sample program launch_msword.java
